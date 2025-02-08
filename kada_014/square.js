@@ -1,4 +1,4 @@
-const total = (namber) => {
- console.log(namber ** 2);
+const total = (number) => {
+return number ** 2 ;
 }
-total(10);
+console.log(total(10));
